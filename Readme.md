@@ -2,6 +2,11 @@
 
 <h1 align='center'> Desafio: Landing Page - Trilhas Desenvolve2023 </h1>
 
+
+
+https://github.com/lsmachado4/Desafio-Trilhas-Desenvolve2023/assets/91704215/490053ed-e7c5-4226-ad49-71c318763620
+
+
 ## 💻 Projeto
 
 Projeto desenvolvido durante o curso do Programa Desenvolve 2023 - Grupo Boticário. O objetivo desse desafio era desenvolver a Landing Page das Trilhas de formação, que teve como layout base o próprio site oficial do programa. 
