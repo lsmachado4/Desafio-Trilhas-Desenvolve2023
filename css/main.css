@@ -1,0 +1,83 @@
+.container-elementos-conteudosPrincipais {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1280px;
+    height: 932px;
+    margin: 37px auto 142px;
+
+
+}
+
+.container-elemento-conteudo {
+    width: 405.33px;
+    height: 444.74px;
+    background-color: var(--whitesmoke-color);
+    border-radius: .25rem;
+    margin-bottom: 1%;
+
+}
+
+.elemento-subtitulo {
+    font-size: 24px;
+    color: var(--daring-indigo-color);
+    margin: 32px 0 0 30px;
+
+}
+
+.elemento-texto {
+
+    display: flex;
+    width: 328.1px;
+    margin: 32px 0 0 30px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 21px;
+
+
+}
+
+.botao {
+    height: 2.9375rem;
+    width: 8.625rem;
+    font-size: .875rem;
+    border-radius: .25rem;
+    border: 1px solid var(--cornflower-color);
+    margin-left: 32px;
+    transition: 0.3s all;
+    cursor: pointer;
+    color: var(--cornflower-color);
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* mouse hover */
+.botao:hover {
+    background-color: var(--cornflower-color);
+    border-color: var(--blue2-color);
+    color: var(--white-color);
+}
+
+#botao-Dados {
+
+    margin-top: 110.25px;
+}
+
+#botao-Devops {
+    margin-top: 68.52px;
+}
+
+#botao-Full__Stack {
+    margin-top: 152.52px;
+}
+
+#botao-E-Commerce {
+    margin-top: 26.52px;
+}
+
+#botao-Seguranca__da__Informacao {
+    margin-top: 7.25px;
+}
+
+#botao-User__Experience {
+    margin-top: 130.72px;
+}
