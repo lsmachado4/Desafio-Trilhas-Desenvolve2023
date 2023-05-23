@@ -49,6 +49,8 @@ O projeto está disponível e pode ser acessado [aqui](https://lsmachado4.github
 - Box model e layout responsivo
 - FlexBox
 - Organização de aquivos
+- Unidades Absolutas e Relativas
+
 
 
 <br>
